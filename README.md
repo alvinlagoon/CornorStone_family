@@ -1,2 +1,2 @@
-# CornorStone_family
-CornorStone Family Website
+# CornerStone_family
+CornerStone Family Website
