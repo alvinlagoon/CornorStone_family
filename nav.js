@@ -1,4 +1,4 @@
-// Shared navigation — CornorStone Family Church
+// Shared navigation — CornerStone Family Church
 (function () {
   var pages = [
     { href: 'index.html',    label: 'Home' },
