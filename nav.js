@@ -1,4 +1,3 @@
-
 // Shared navigation — CornerStone Family Church
 (function () {
   var pages = [
