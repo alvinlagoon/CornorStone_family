@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 // Shared navigation — CornerStone Family Church
 (function () {
   var pages = [
@@ -73,7 +73,7 @@
   window.addEventListener('scroll', revealOnScroll, { passive: true });
   revealOnScroll();
 })();
-=======
+
 // Shared navigation — CornerStone Family Church
 (function () {
   var pages = [
@@ -148,4 +148,4 @@
   window.addEventListener('scroll', revealOnScroll, { passive: true });
   revealOnScroll();
 })();
->>>>>>> 884a267f84f0d3b097bdd51c62d2d315a9a38f2e
+
